@@ -1,6 +1,6 @@
 # Membuat fungsi untuk mengubah bilangan pecahan ke bilangan bulat 
 
-Coding program lengap
+Coding program lengkap
 
     #include <iostream>
     using namespace std;
